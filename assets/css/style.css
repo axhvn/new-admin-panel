@@ -1,0 +1,46 @@
+/* *,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+  background-color: white;
+  max-width: 100vw;
+  overflow: hidden; 
+}
+
+.bg-grey {
+  background-color: rgb(230, 230, 230);
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: black !important;
+  cursor: pointer;
+}
+
+select {
+  width: 72px;
+  height: 39px;
+  border-radius: 5px;
+  outline: none;
+}
+
+table{
+  width: 100%;
+}
+
+th {
+  padding: 25px;
+}
+
+.main-tag {
+  padding-top: 62px;
+} */
+
+
+
